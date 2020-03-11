@@ -1,4 +1,7 @@
 ### Ormuco Technical Test
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b101ac6532624035bad423b0b3cef424)](https://app.codacy.com/manual/lemon-shark/ormuco?utm_source=github.com&utm_medium=referral&utm_content=lemon-shark/ormuco&utm_campaign=Badge_Grade_Dashboard)
+
 >
 >
 > ##### Question A:

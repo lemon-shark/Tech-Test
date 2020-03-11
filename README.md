@@ -52,7 +52,7 @@ Type in 2 Version Strins in the Simple web form
 >
 #### Question C:
 
-source directory: `./cache.py`
+source directory: `./Chloe_Zhu_test/LRU_Cache/cache.py`
 
 Design and implement a data structure for Least Recently Used (LRU) cache. It should support the following operations: get and put.
 
@@ -61,6 +61,7 @@ put(key, value) - Set or insert the value if the key is not already present. Whe
 
 The cache is initialized with a positive capacity. It runs in O(1) time complexity. 
 
-Here is the profiling result of : 
+Here is the profiling result of LRU Cache:
+![Alt text](chloe_zhu_test/LRU_Cache/cache.png?raw=true "Profiling result")
 
 

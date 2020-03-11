@@ -20,7 +20,8 @@ usage:
 ```
 Type in 2 Points of Line 1, and 2 Points of Line 2 in the Simple web form
 
-# It will return "Overlapping" if the lines overlap, "Not Overlapping" otherwise. If user input is non-numerical or empty, it will return "Invalid Input Type"
+# It will return "Overlapping" if the lines overlap, "Not Overlapping" otherwise. If user input is 
+non-numerical or empty, it will return "Invalid Input Type"
 ```
 >
 > ##### Question B:

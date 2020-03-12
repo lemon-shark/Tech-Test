@@ -16,6 +16,7 @@ source directory: `./Chloe_Zhu_test/overlap.js`
 usage: 
 
 - Run `index.html`
+- The project host in `https://lemon-shark.github.io/`
 
 ```
 Type in 2 Points of Line 1, and 2 Points of Line 2 in the Simple web form
@@ -35,7 +36,7 @@ source directory: `./Chloe_Zhu_test/compareVersionStrings.js`
 usage: 
 
 - Run `index.html`
-
+- The project host in `https://lemon-shark.github.io/`
 ```
 Type in 2 Version Strins in the Simple web form
 

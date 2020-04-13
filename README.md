@@ -9,7 +9,7 @@
 
 ### The Answers
 
-#### Question A:
+#### Question 1:
 
 source directory: `./Chloe_Zhu_test/overlap.js`
 
@@ -25,11 +25,11 @@ Type in 2 Points of Line 1, and 2 Points of Line 2 in the Simple web form
 non-numerical or empty, it will return "Invalid Input Type"
 ```
 >
-> ##### Question B:
+> ##### Question 2:
 > The goal of this question is to write a software library that accepts 2 version string as input and returns whether one is greater than, equal, or less than the other. As an example: “1.2” is greater than “1.1”. Please provide all test cases you could think of.
 >
 
-#### Question B:
+#### Question 2:
 
 source directory: `./Chloe_Zhu_test/compareVersionStrings.js`
 
@@ -45,8 +45,8 @@ Type in 2 Version Strins in the Simple web form
 #     "is less than": If the first version is smaller than the second
 #     "equals": If the versions are equals
 ```
-> ##### Question C:
-> At Ormuco, we want to optimize every bits of software we write. Your goal is to write a new library that can be integrated to the Ormuco stack. Dealing with network issues everyday, latency is our biggest problem. Thus, your challenge is to write a new Geo Distributed LRU (Least Recently Used) cache with time expiration. This library will be used extensively by many of our services so it needs to meet the following criteria:
+> ##### Question 3:
+> We want to optimize every bits of software we write. Your goal is to write a new library that can be integrated to the Ormuco stack. Dealing with network issues everyday, latency is our biggest problem. Thus, your challenge is to write a new Geo Distributed LRU (Least Recently Used) cache with time expiration. This library will be used extensively by many of our services so it needs to meet the following criteria:
 > 1. Simplicity. Integration needs to be dead simple.
 > 2. Resilient to network failures or crashes.
 > 3. Near real time replication of data across Geolocation. Writes need to be in real time.
@@ -55,7 +55,7 @@ Type in 2 Version Strins in the Simple web form
 > 6. Flexible Schema
 > 7. Cache can expire 
 >
-#### Question C:
+#### Question 3:
 
 source directory: `./Chloe_Zhu_test/LRU_Cache/cache.py`
 
